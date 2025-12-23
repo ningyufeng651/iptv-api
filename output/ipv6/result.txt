@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-23 11:35:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-23 11:58:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -233,6 +233,7 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,https://migu.188766.xyz/?migutoken=0b0257ef83b183d1c0fd20415007e41e&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 先锋乒羽,https://hls-gateway.vpstv.net/streams/708971.m3u8
 CHC影迷电影,https://migu.188766.xyz/?migutoken=352f039e7ecba799a8914232745eb147&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
@@ -245,7 +246,6 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-11.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-18.ctv
 动漫秀场高清频道,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
-动漫秀场高清频道,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场高清频道,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
 动漫秀场高清频道,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-11.m3u8
@@ -254,6 +254,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-18.ctv
 动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-2.m3u8
 动漫秀场高清频道,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-12.ctv
+动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-7.m3u8
 环球旅游,https://migu.188766.xyz/?migutoken=9775ba6f25a4e873d0a1d1593889dd3a&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 环球旅游,https://migu.188766.xyz/?migutoken=029130c706e8940e19fd57352972391a&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 四海钓鱼,https://migu.188766.xyz/?migutoken=aabbea9a55d1ca42b027cb0a6bd3fa2f&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
@@ -1041,12 +1042,10 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
-东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
@@ -1142,9 +1141,7 @@ CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
-纬来体育,http://bxtv.3a.ink/api.php?id=wlty
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8
