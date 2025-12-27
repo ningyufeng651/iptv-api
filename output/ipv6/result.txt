@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-27 18:23:40,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-28 06:21:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -241,8 +241,8 @@ CHC动作电影,https://migu.188766.xyz/?migutoken=aeeb07403ae402437de4aa713d2cd
 CHC动作电影,https://migu.188766.xyz/?migutoken=ee4b0263fa217b298b6b15301f6b36dc&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,https://migu.188766.xyz/?migutoken=b6a00d6356d42e25875bed1f8c4277e0&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,https://migu.188766.xyz/?migutoken=4de1d7a67330a79480ee6f963b12e3ba&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 先锋乒羽,https://hls-gateway.vpstv.net/streams/708971.m3u8
 CHC影迷电影,https://migu.188766.xyz/?migutoken=352f039e7ecba799a8914232745eb147&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://migu.188766.xyz/?migutoken=1477f08478cf7b4a64dfa80122310dd3&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
@@ -1216,7 +1216,7 @@ CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-31.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-12.ctv
 广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-4.ctv
-广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-26.ctv
+广州竞赛,https://stream1.freetv.fun/yan-zhou-jing-sai-27.ctv
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-5.m3u8
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
