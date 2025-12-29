@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-29 06:22:40,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-29 18:27:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -234,6 +234,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=0ae66bb08572c1ed9113b43c3d047d13&wsTime=1766721640
 文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=e59129534cd426dc0634cfa6424e9424&wsTime=1766808026
 文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=c941e4314b8b06e2467e643840830005&wsTime=1766894434
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=4d163dafa577f6dedc1599e71dc7597a&wsTime=1766980843
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,https://migu.188766.xyz/?migutoken=0b0257ef83b183d1c0fd20415007e41e&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
@@ -252,6 +253,7 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=ffdc48e392a796351829aa113b6ca
 CHC影迷电影,https://migu.188766.xyz/?migutoken=e16d478194751422705aea85f4417bf6&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://migu.188766.xyz/?migutoken=4e3c3d3457f55893d23611de4db38491&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
+CHC影迷电影,https://migu.188766.xyz/?migutoken=319dd5e638246c844822f9292108d3c1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
@@ -279,6 +281,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=6af5436d4ade4242e351e50a50bb7
 环球旅游,https://migu.188766.xyz/?migutoken=ad5748c5310f3197fc98376e371a61b9&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 环球旅游,https://migu.188766.xyz/?migutoken=2422cd1cb7d565c81d43ca7a86a86bf3&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 环球旅游,https://migu.188766.xyz/?migutoken=86ad4d56d090ec61e5b2b060566d87b8&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
+环球旅游,https://migu.188766.xyz/?migutoken=55b1ef9456c6f2f3cc379a5951644b5d&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 四海钓鱼,https://migu.188766.xyz/?migutoken=aabbea9a55d1ca42b027cb0a6bd3fa2f&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 四海钓鱼,http://goo.bkpcp.top/mg/shdy
 四海钓鱼,http://z.b.bkpcp.top/m.php?id=shdy
@@ -288,6 +291,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=6af5436d4ade4242e351e50a50bb7
 四海钓鱼,https://migu.188766.xyz/?migutoken=3e487ca020d9e58c483c6c40d8bb756e&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 四海钓鱼,https://migu.188766.xyz/?migutoken=45e47d17c79c4d19f43c700dd41e64f7&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 四海钓鱼,https://migu.188766.xyz/?migutoken=058f4575feae2bd4f20dc6355f8df645&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+四海钓鱼,https://migu.188766.xyz/?migutoken=17fbe27a52354cee152404f8552f8869&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 财富天下,https://migu.188766.xyz/?migutoken=b45d0d5679898980556a986a9ddb4308&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 财富天下,https://migu.188766.xyz/?migutoken=af2077e8fb10001381fc14d36e984e06&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 财富天下,https://migu.188766.xyz/?migutoken=019e6bd2f6ab9603cc042f9f942d4594&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
@@ -295,6 +299,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=6af5436d4ade4242e351e50a50bb7
 财富天下,https://migu.188766.xyz/?migutoken=7e194fc370d04a91edbc3e73026e0e2b&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 财富天下,https://migu.188766.xyz/?migutoken=4a7bb64d4eac0efab1583e74455c5dd7&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 财富天下,https://migu.188766.xyz/?migutoken=bfe25d45855f3d771b2adbd47bde3aa4&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+财富天下,https://migu.188766.xyz/?migutoken=6b9b8c5277bc045412e7cec7491734e7&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
