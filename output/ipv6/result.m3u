@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ningyufeng651/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-30 06:23:24
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-30 18:30:53
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -463,6 +463,8 @@ http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=c941e4314b8b06e2467e643840830005&wsTime=1766894434
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文物宝库.png" group-title="💰央视付费频道",文物宝库
 http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=4d163dafa577f6dedc1599e71dc7597a&wsTime=1766980843
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/文物宝库.png" group-title="💰央视付费频道",文物宝库
+http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=c9e65438f6235ccf4bf36085c0f42526&wsTime=1767067246
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="💰央视付费频道",CHC动作电影
 http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="💰央视付费频道",CHC动作电影
@@ -501,6 +503,8 @@ https://migu.188766.xyz/?migutoken=4e3c3d3457f55893d23611de4db38491&id=CHC%E5%BD
 https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="💰央视付费频道",CHC影迷电影
 https://migu.188766.xyz/?migutoken=319dd5e638246c844822f9292108d3c1&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="💰央视付费频道",CHC影迷电影
+https://migu.188766.xyz/?migutoken=43e8e845ec242cb9b9bbf6a020795474&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="💰央视付费频道",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=chcjtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="💰央视付费频道",CHC家庭影院
@@ -557,6 +561,8 @@ https://migu.188766.xyz/?migutoken=2422cd1cb7d565c81d43ca7a86a86bf3&id=%E7%8E%AF
 https://migu.188766.xyz/?migutoken=86ad4d56d090ec61e5b2b060566d87b8&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/环球旅游.png" group-title="💰央视付费频道",环球旅游
 https://migu.188766.xyz/?migutoken=55b1ef9456c6f2f3cc379a5951644b5d&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/环球旅游.png" group-title="💰央视付费频道",环球旅游
+https://migu.188766.xyz/?migutoken=6525e0cea37b592a98a9511a39545e1e&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四海钓鱼.png" group-title="💰央视付费频道",四海钓鱼
 https://migu.188766.xyz/?migutoken=aabbea9a55d1ca42b027cb0a6bd3fa2f&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/四海钓鱼.png" group-title="💰央视付费频道",四海钓鱼
@@ -593,6 +599,8 @@ https://migu.188766.xyz/?migutoken=4a7bb64d4eac0efab1583e74455c5dd7&id=%E8%B4%A2
 https://migu.188766.xyz/?migutoken=bfe25d45855f3d771b2adbd47bde3aa4&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/财富天下.png" group-title="💰央视付费频道",财富天下
 https://migu.188766.xyz/?migutoken=6b9b8c5277bc045412e7cec7491734e7&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/财富天下.png" group-title="💰央视付费频道",财富天下
+https://migu.188766.xyz/?migutoken=22c9c5b8b4732d0d4ff40e120c33faf1&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="💰央视付费频道",风云足球
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="💰央视付费频道",风云足球
@@ -1871,6 +1879,8 @@ https://stream1.freetv.fun/dong-wu-xing-qiu-1.m3u8
 https://hls-gateway.vpstv.net/streams/476978.m3u8
 #EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探索亚洲.png" group-title="🌊台湾数码天空",探索亚洲
 https://smt.go-iptv.ggff.net/smart.php?id=discoverytwn_twn&token=Goiptv
+#EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探索亚洲.png" group-title="🌊台湾数码天空",探索亚洲
+https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
 #EXTINF:-1 tvg-name="探索科学" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探索科学.png" group-title="🌊台湾数码天空",探索科学
 https://hls-gateway.vpstv.net/streams/489008.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视香港台.png" group-title="🌊台湾数码天空",凤凰卫视香港台
@@ -2143,6 +2153,10 @@ https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🎬电影频道",东森电影
 https://hls-gateway.vpstv.net/streams/476995.m3u8
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🎬电影频道",龙祥电影
+https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="龙祥电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥电影.png" group-title="🎬电影频道",龙祥电影
+https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
 https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
