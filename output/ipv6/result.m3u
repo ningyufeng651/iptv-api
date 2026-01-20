@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ningyufeng651/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-20 18:32:04
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-21 06:26:10
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -544,8 +544,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182
 #EXTINF:-1 tvg-name="动漫秀场高清频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场高清频道.png" group-title="💰央视付费频道",动漫秀场高清频道
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-name="动漫秀场高清频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场高清频道.png" group-title="💰央视付费频道",动漫秀场高清频道
-https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
-#EXTINF:-1 tvg-name="动漫秀场高清频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场高清频道.png" group-title="💰央视付费频道",动漫秀场高清频道
 https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
 #EXTINF:-1 tvg-name="动漫秀场高清频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场高清频道.png" group-title="💰央视付费频道",动漫秀场高清频道
 https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-11.m3u8
@@ -561,6 +559,8 @@ https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 https://stream1.freetv.fun/dong-man-xiu-chang-12.ctv
 #EXTINF:-1 tvg-name="动漫秀场高清频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场高清频道.png" group-title="💰央视付费频道",动漫秀场高清频道
 https://stream1.freetv.fun/dong-man-xiu-chang-7.m3u8
+#EXTINF:-1 tvg-name="动漫秀场高清频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场高清频道.png" group-title="💰央视付费频道",动漫秀场高清频道
+https://hls-gateway.vpstv.net/streams/708843.m3u8
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/环球旅游.png" group-title="💰央视付费频道",环球旅游
 https://migu.188766.xyz/?migutoken=9775ba6f25a4e873d0a1d1593889dd3a&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/环球旅游.png" group-title="💰央视付费频道",环球旅游

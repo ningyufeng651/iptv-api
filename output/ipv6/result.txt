@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 18:32:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-21 06:26:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -275,7 +275,6 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=6af5436d4ade4242e351e50a50bb7
 快乐购,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047427/main.m3u8?stbid=
 快乐购,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182544/main.m3u8?stbid=
 动漫秀场高清频道,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
-动漫秀场高清频道,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
 动漫秀场高清频道,https://stream1.freetv.fun/ipv6-dong-man-xiu-chang-11.m3u8
 动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-9.ctv
@@ -284,6 +283,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=6af5436d4ade4242e351e50a50bb7
 动漫秀场高清频道,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-12.ctv
 动漫秀场高清频道,https://stream1.freetv.fun/dong-man-xiu-chang-7.m3u8
+动漫秀场高清频道,https://hls-gateway.vpstv.net/streams/708843.m3u8
 环球旅游,https://migu.188766.xyz/?migutoken=9775ba6f25a4e873d0a1d1593889dd3a&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 环球旅游,https://migu.188766.xyz/?migutoken=029130c706e8940e19fd57352972391a&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
 环球旅游,https://migu.188766.xyz/?migutoken=33b3dbf8f5b056d20dcbf9a01d3a951d&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
