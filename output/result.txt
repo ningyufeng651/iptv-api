@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-05 18:35:17,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+2026-04-06 06:32:31,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
@@ -46,10 +46,10 @@ CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-11,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-12,http://z.b.bkpcp.top/m.php?id=CCTV-12社会与法社会与法
@@ -197,8 +197,8 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://111.56.90.5/000000000000/1000000005000265027/1.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
@@ -375,13 +375,14 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-10.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-18.m3u8
+山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 
 🌊香港,#genre#
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
+翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 明珠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=cadf460aacc566024c43c7c43091734c
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://r.jdshipin.com/jUx8K
@@ -402,10 +403,10 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
