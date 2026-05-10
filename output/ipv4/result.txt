@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-10 19:02:55,http://198.204.240.250:82/live/cctv4k.m3u8
+2026-05-11 06:48:35,http://198.204.240.250:82/live/cctv4k.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
@@ -12,6 +12,7 @@ CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 环球奇观,rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
 
 📡卫视频道,#genre#
+广东卫视,http://125.42.150.148:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
