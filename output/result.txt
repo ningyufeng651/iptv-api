@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 20:41:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-12 06:55:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -322,7 +322,6 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 ☘️天津频道,#genre#
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
@@ -613,9 +612,9 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=20130
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=30031
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
