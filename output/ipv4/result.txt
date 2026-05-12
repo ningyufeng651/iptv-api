@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-12 20:11:21,http://198.204.240.250:82/live/cctv4k.m3u8
+2026-05-13 07:02:12,http://198.204.240.250:82/live/cctv4k.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
@@ -12,8 +12,8 @@ CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 环球奇观,rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
 
 📡卫视频道,#genre#
-浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=7
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -34,8 +34,6 @@ CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 🌊台湾数码天空,#genre#
 龙祥时代电影,http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
