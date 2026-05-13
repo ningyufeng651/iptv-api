@@ -1,9 +1,13 @@
 🕘️更新时间,#genre#
-2026-05-13 20:06:05,http://198.204.240.250:82/live/cctv4k.m3u8
+2026-05-14 07:07:05,http://74.91.26.218:82/live/cctv2hd.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5,http://192.151.150.154/live/cctv5p.m3u8
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 
 💰央视付费频道,#genre#
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
@@ -21,7 +25,6 @@ CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 新疆卫视,http://107.150.60.122/live/xjws.m3u8
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
@@ -47,7 +50,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-广东体育,http://67.220.71.199:2347/livehttpplay?channel_id=12028
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
