@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-22 20:19:59,http://198.204.240.250:82/live/cctv4k.m3u8
+2026-05-23 07:00:24,http://198.204.240.250:82/live/cctv4k.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
@@ -18,7 +18,6 @@ CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
 北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001500/index.m3u8?streamid=20915ffd9b2848bf3604dfea93e5f344&streamkey=0bKBhLQXZpbdLg0IeEcP2ZWPg1LTpAxB7Ns2hHCcgm7Hn9QOXx5mdzLkAhJKIoLyZdrKRK0b96Ukb7NWPMk8v25CQ52qBH9Bj4wiDnbyCgkgvAET5TyGUz5ZsSJWA&token=1775753726-024ff669b48c4157-0-8e77105f63898493d3c467122bd6c61b
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8
