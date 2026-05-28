@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-28 21:52:26,http://69.30.245.50/live/cctv1.m3u8
+2026-05-29 07:18:15,http://69.30.245.50/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://69.30.245.50/live/cctv1.m3u8
@@ -146,8 +146,8 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 财富天下,https://migu.188766.xyz/?migutoken=af2077e8fb10001381fc14d36e984e06&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 财富天下,https://migu.188766.xyz/?migutoken=019e6bd2f6ab9603cc042f9f942d4594&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
 财富天下,https://migu.188766.xyz/?migutoken=ab3186d8a5754319bc4d9b15fab78867&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
-天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 天元围棋,http://198.204.228.26/live/gztywq.m3u8
+天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 环球奇观,rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
@@ -200,9 +200,9 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
 湖南卫视,http://j.x.bkpcp.top/jx/HUNANHD
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
-北京卫视,https://live.264788.xyz/channel/beijingweishi4k?streamid=20915ffd9b2848bf3604dfea93e5f344&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
+北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
 湖北卫视,http://j.x.bkpcp.top/jx/HUBEIHD
@@ -279,10 +279,10 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
 青海卫视,http://j.x.bkpcp.top/jx/QHWS
 青海卫视,http://goo.bkpcp.top/mg/qhws
-山东卫视,http://101.66.199.101:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010066
 山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
 山东卫视,http://j.x.bkpcp.top/jx/SHANDHD
+山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010114
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 山西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
@@ -315,10 +315,10 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
 新疆卫视,http://j.x.bkpcp.top/jx/XJWS
 新疆卫视,http://goo.bkpcp.top/mg/xjws
-云南卫视,http://101.66.199.101:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
 云南卫视,http://goo.bkpcp.top/mg/ynws
+云南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 
 ☘️天津频道,#genre#
 滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
@@ -663,8 +663,8 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 安徽综艺体育,https://stream1.freetv.fun/an-hui-zong-yi-ti-yu-4.ctv
 睛彩篮球,https://live.264788.xyz/channel/jingcailanqiu?streamid=40e579f6c4fc2784fadd3338b2de8b93&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 睛彩篮球,https://live.264788.xyz/channel/jingcailanqiu?streamid=38ee65d3b9fee2eb971b05b0a134978a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-睛彩篮球,http://47.100.209.208:8100/TVOD/3000000020000011529.m3u8?token=8520
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
+睛彩篮球,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
