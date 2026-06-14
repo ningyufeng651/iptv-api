@@ -1,15 +1,18 @@
 🕘️更新时间,#genre#
-2026-06-14 07:06:27,http://198.204.240.250:82/live/cctv4k.m3u8
+2026-06-14 20:00:28,http://125.43.244.40:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📺央视频道,#genre#
+CCTV-2,http://125.43.244.40:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
-CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://125.43.244.40:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://125.43.244.40:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://125.43.244.40:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
-天元围棋,http://198.204.228.26/live/gztywq.m3u8
-天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
+天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
+天元围棋,http://198.204.228.26/live/gztywq.m3u8
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 环球奇观,rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
 
@@ -19,6 +22,8 @@ CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东南卫视,http://125.43.244.40:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://125.43.244.40:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️天津频道,#genre#
@@ -36,6 +41,7 @@ CCTV-15,http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
+Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
 🌊台湾数码天空,#genre#
 龙祥时代电影,http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
@@ -55,6 +61,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+金鹰卡通,http://125.43.244.40:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
