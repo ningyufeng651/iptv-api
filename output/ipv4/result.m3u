@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ningyufeng651/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-28 19:49:14
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-29 07:03:52
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="💰央视付费频道",梨园
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="💰央视付费频道",天元围棋
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
-#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="💰央视付费频道",天元围棋
 http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="💰央视付费频道",天元围棋
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 #EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卫生健康.png" group-title="💰央视付费频道",卫生健康
 http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/环球奇观.png" group-title="💰央视付费频道",环球奇观
@@ -37,8 +37,6 @@ rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊香港",凤凰香港
 rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
-#EXTINF:-1 tvg-name="Now华剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Now华剧.png" group-title="🌊香港",Now华剧
-http://iptv.4666888.xyz/iptv2A.php?id=84
 #EXTINF:-1 tvg-name="龙祥时代电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙祥时代电影.png" group-title="🌊台湾数码天空",龙祥时代电影
 http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="🌊台湾数码天空",华视
