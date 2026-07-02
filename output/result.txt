@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-02 07:16:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-02 20:11:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -321,6 +321,7 @@ CHC家庭影院,https://migu.188766.xyz/?migutoken=780f77d0d7a9e17a0d904a5944f85
 云南卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
 
 ☘️天津频道,#genre#
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
