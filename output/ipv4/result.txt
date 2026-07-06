@@ -1,24 +1,72 @@
 🕘️更新时间,#genre#
-2026-07-06 07:02:38,http://198.204.240.250:82/live/cctv4k.m3u8
+2026-07-06 21:51:41,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 
 📺央视频道,#genre#
-CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-12,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
+CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
+CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
 
 💰央视付费频道,#genre#
+世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
+世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8?streamid=8a034b40397504e25b3775c772237996&streamkey=01vY5fRxC8VyKg4oq30vfikHXTCAKySLP29l6OG91kQlzDttHgzNLkUw5kivm3PfNsVHJv5FgdsPBYFYI2IWpt7tfRCuFHqLT2pvX67ubMds8jl2DHtvOh0&token=1775754349-4f33f4f84a4abeba-0-91687dc8c9325092efa1d00f330d2710
+兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=530cb4e58bbc48b7fc26f5e0a2e47966&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
-天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
+CHC家庭影院,https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
+天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 环球奇观,rtsp://139.215.98.88/PLTV/88888888/224/3221225749/10000100000000060000000014254004_0.smil
+风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
+高尔夫网球,http://173.208.212.130:8181/720p/gefwq.m3u8
+央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
+女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
+女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+怀旧剧场,http://207.56.13.146:81/cdnlive/hjjc.m3u8
+怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
+怀旧剧场,http://173.208.212.130:8181/720p/hjjc.m3u8
+怀旧剧场,http://107.150.60.122/live/hjjc.m3u8
+风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
+风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
+第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
+风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
+风云音乐,http://173.208.212.130:8181/720p/fyyy.m3u8
+风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
+风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 📡卫视频道,#genre#
+广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-北京卫视,https://iptv.catvod.com/catvod?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&line=6
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://101.66.194.186:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+安徽卫视,http://101.66.194.186:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://198.204.228.26/live/cqwshd.m3u8
+重庆卫视,http://101.66.194.151:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+重庆卫视,http://101.66.194.186:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://198.204.228.26/live/gxwshd.m3u8
+广西卫视,http://101.66.194.186:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+广西卫视,http://101.66.194.151:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+贵州卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd
+贵州卫视,http://101.66.194.151:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://101.66.194.186:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+江西卫视,http://101.66.194.151:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+辽宁卫视,http://101.66.194.186:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
+山东卫视,http://101.66.194.186:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://101.66.194.151:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+山西卫视,http://107.150.60.122/live/sxwshd.m3u8
+陕西卫视,http://198.204.228.26/live/snwshd.m3u8
+四川卫视,http://101.66.194.186:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://101.66.194.151:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+三沙卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
+云南卫视,http://101.66.194.151:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️天津频道,#genre#
-滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1
 
@@ -43,7 +91,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
@@ -51,6 +99,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.245.70/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.254.81/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.240.228:554/PLTV/88888888/224/3221227006/86440922.smil
+金鹰卡通,http://125.42.150.233:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.66.194.151:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
