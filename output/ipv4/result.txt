@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-24 19:45:16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-07-25 07:03:14,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -18,48 +18,46 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 女性时尚,http://173.208.212.130:8181/720p/nxss.m3u8
 
 📡卫视频道,#genre#
+广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 广东卫视,http://204.12.221.218:8181/3m1080p/gdws.m3u8
-广东卫视,http://107.150.60.122/live/gdwshd.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 浙江卫视,http://173.208.212.130:8181/720p/zjws.m3u8
+浙江卫视,http://204.12.221.218:8181/3m1080p/zjws.m3u8
 湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
-湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
 北京卫视,http://45.192.97.170:8880/play/4257.m3u8
-北京卫视,http://45.192.97.170:8880/play/4131.m3u8
-北京卫视,http://45.192.97.170:8880/play/3780.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
+湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
 湖北卫视,http://204.12.221.218:8181/3m1080p/hbws.m3u8
 黑龙江卫视,http://107.150.60.122/live/hljwshd.m3u8
-东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 东南卫视,http://198.204.228.26/live/dnwshd.m3u8
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
-河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
+广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 河北卫视,http://173.208.212.130:8181/720p/hews.m3u8
+河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
-江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
+江苏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 江西卫视,http://107.150.60.122/live/jxwshd.m3u8
-辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
 辽宁卫视,http://107.150.60.122/live/lnwshd.m3u8
 辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
+辽宁卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnwshd
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8
 内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
 青海卫视,http://107.150.60.122/live/qhws.m3u8
-山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
-陕西卫视,http://204.12.221.218:8181/3m1080p/snws.m3u8
+山东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdwshd
 陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8
+陕西卫视,http://204.12.221.218:8181/3m1080p/snws.m3u8
 四川卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scwshd
 深圳卫视,http://198.204.228.26/live/szwshd.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
@@ -83,22 +81,12 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 
 ☘️山东频道,#genre#
 山东少儿,http://45.192.97.170:8880/play/3921.m3u8
-山东少儿,http://45.192.97.170:8880/play/3665.m3u8
 山东新闻,http://45.192.97.170:8880/play/3919.m3u8
-山东新闻,http://45.192.97.170:8880/play/3663.m3u8
-山东教育,http://45.192.97.170:8880/play/931.m3u8
 山东居家购物,http://45.192.97.170:8880/play/3779.m3u8
-山东农科,http://45.192.97.170:8880/play/3664.m3u8
 山东农科,http://45.192.97.170:8880/play/3920.m3u8
-山东齐鲁,http://45.192.97.170:8880/play/3659.m3u8
 山东齐鲁,http://45.192.97.170:8880/play/3925.m3u8
-山东生活,http://45.192.97.170:8880/play/3669.m3u8
-山东生活,http://45.192.97.170:8880/play/3923.m3u8
 山东体育,http://45.192.97.170:8880/play/3918.m3u8
 山东文旅,http://45.192.97.170:8880/play/3922.m3u8
-山东文旅,http://45.192.97.170:8880/play/3667.m3u8
-山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
-山东综艺,http://45.192.97.170:8880/play/3670.m3u8
 山东综艺,http://45.192.97.170:8880/play/3924.m3u8
 滨州新闻综合,http://45.192.97.170:8880/play/3768.m3u8
 
@@ -107,7 +95,6 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
-纬来体育,http://45.192.97.170:8880/play/1283.m3u8
 
 🌊台湾数码天空,#genre#
 龙祥时代电影,http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
@@ -120,15 +107,12 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
 广东体育,http://45.192.97.170:8880/play/1220.m3u8
-广东体育,http://45.192.97.170:8880/play/528.m3u8
 广东体育,http://45.192.97.170:8880/play/575.m3u8
 五星体育,http://45.192.97.170:8880/play/480.m3u8
-辽宁体育,http://45.192.97.170:8880/play/1086.m3u8
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 睛彩篮球,http://45.192.97.170:8880/play/570.m3u8
-睛彩篮球,http://45.192.97.170:8880/play/1100.m3u8
 
 🪁动画频道,#genre#
 少儿动画,rtsp://118.212.169.207:554/PLTV/88888888/224/3221227318/10000100000000060000000001945936_0.smil
