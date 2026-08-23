@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-23 06:23:11,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+2026-08-23 18:24:33,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 
 📺央视频道,#genre#
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
@@ -29,8 +29,8 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 湖北卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
 重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
-东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 东南卫视,http://107.150.60.122/live/dnwshd.m3u8
+东南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
 吉林卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd
@@ -44,10 +44,11 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 四川卫视,http://107.150.60.122/live/scwshd.m3u8
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 西藏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
-云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 云南卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd
+云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 
 ☘️天津频道,#genre#
+滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 
 ☘️河北频道,#genre#
@@ -64,8 +65,8 @@ CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
 🌊台湾数码天空,#genre#
 龙祥时代电影,http://free.cnlive.club/channel/67548a4f.m3u8?q=111.170.171.148
 华视,http://211.72.174.95:8114/0.ts
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
 民视,http://74.91.26.218:82/live/ftv.m3u8
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
 民视,http://211.72.174.95:8115/0.ts
 
 🎬电影频道,#genre#
