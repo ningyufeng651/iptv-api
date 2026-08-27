@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-27 10:58:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-28 04:13:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -412,10 +412,14 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+J2,https://hls-gateway.vpstv.net/streams/476932.m3u8
 Viutv,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=4f0dd8b20a195bdf2dcf5540f665ee0b
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+Viutv,http://r.jdshipin.com/vSJvl
+Viutv,http://r.jdshipin.com/TcKr2
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-5.m3u8
+三立台湾,https://hls-gateway.vpstv.net/streams/477050.m3u8
 三立新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=db8e1e5ca873263badcb5fe80cf52d5f
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
@@ -660,6 +664,8 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
+足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+足球频道,http://live-cmvideo.cmread.com:80/migu/lunbo/eufootball/57/20230310/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=da834f97e3c8832f6fd8f2be9ba16464
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
 魅力足球,http://goo.bkpcp.top/mg/mlzq
