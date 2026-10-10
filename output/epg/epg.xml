@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261010013448 +0800">
+<tv date="20261010154616 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -20514,6 +20514,39 @@
 	<programme channel="优漫卡通" start="20261012010000 +0800" stop="20261012050000 +0800">
 		<title lang="zh">卡卡虎大冒险</title>
 	</programme>
+	<programme channel="优漫卡通" start="20261012050000 +0800" stop="20261012060000 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012060000 +0800" stop="20261012070000 +0800">
+		<title lang="zh">新西游历险记</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012070000 +0800" stop="20261012080000 +0800">
+		<title lang="zh">开心超人联盟之星之力</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012080000 +0800" stop="20261012083000 +0800">
+		<title lang="zh">小凉帽之魔法凉帽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012083000 +0800" stop="20261012090000 +0800">
+		<title lang="zh">海底小纵队</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012090000 +0800" stop="20261012100000 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012100000 +0800" stop="20261012110000 +0800">
+		<title lang="zh">新西游历险记</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012110000 +0800" stop="20261012120000 +0800">
+		<title lang="zh">开心超人联盟之星之力</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012120000 +0800" stop="20261012123000 +0800">
+		<title lang="zh">海莉心历险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012123000 +0800" stop="20261012125500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20261012125500 +0800" stop="20261012135500 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -23187,154 +23220,7 @@
 	<programme channel="家庭理财" start="20261009231500 +0800" stop="20261009234500 +0800">
 		<title lang="zh">财经慧客厅畅享版（408）</title>
 	</programme>
-	<programme channel="家庭理财" start="20261009234500 +0800" stop="20261010001500 +0800">
-		<title lang="zh">财经慧客厅畅享版（102）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010001500 +0800" stop="20261010002500 +0800">
-		<title lang="zh">财经慧客厅（1001）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010002500 +0800" stop="20261010003500 +0800">
-		<title lang="zh">财经慧客厅（1002）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010003500 +0800" stop="20261010004500 +0800">
-		<title lang="zh">财经慧客厅（1003）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010004500 +0800" stop="20261010005500 +0800">
-		<title lang="zh">财经慧客厅（1004）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010005500 +0800" stop="20261010010500 +0800">
-		<title lang="zh">财经慧客厅（1005）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010010500 +0800" stop="20261010011500 +0800">
-		<title lang="zh">财经慧客厅（1006）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010011500 +0800" stop="20261010014500 +0800">
-		<title lang="zh">财经慧客厅畅享版（77）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010014500 +0800" stop="20261010015000 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010015000 +0800" stop="20261010022000 +0800">
-		<title lang="zh">财经慧客厅畅享版（72）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010022000 +0800" stop="20261010025000 +0800">
-		<title lang="zh">财经慧客厅畅享版（705）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010025000 +0800" stop="20261010032500 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010032500 +0800" stop="20261010035500 +0800">
-		<title lang="zh">财经慧客厅畅享版（102）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010035500 +0800" stop="20261010042500 +0800">
-		<title lang="zh">财经慧客厅畅享版（408）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010042500 +0800" stop="20261010045500 +0800">
-		<title lang="zh">财经慧客厅畅享版（402）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010045500 +0800" stop="20261010050000 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010050000 +0800" stop="20261010053000 +0800">
-		<title lang="zh">财经慧客厅畅享版（77）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010053000 +0800" stop="20261010060000 +0800">
-		<title lang="zh">财经慧客厅畅享版（304）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010060000 +0800" stop="20261010063000 +0800">
-		<title lang="zh">财经慧客厅畅享版（705）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010063000 +0800" stop="20261010070000 +0800">
-		<title lang="zh">财经慧客厅畅享版（110）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010070000 +0800" stop="20261010073000 +0800">
-		<title lang="zh">财经慧客厅畅享版（72）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010073000 +0800" stop="20261010080000 +0800">
-		<title lang="zh">财经慧客厅畅享版（77）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010080000 +0800" stop="20261010083000 +0800">
-		<title lang="zh">财经慧客厅畅享版（110）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010083000 +0800" stop="20261010090000 +0800">
-		<title lang="zh">财经慧客厅畅享版（705）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010090000 +0800" stop="20261010091000 +0800">
-		<title lang="zh">财经慧客厅（1001）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010091000 +0800" stop="20261010092000 +0800">
-		<title lang="zh">财经慧客厅（1002）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010092000 +0800" stop="20261010093000 +0800">
-		<title lang="zh">财经慧客厅（1003）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010093000 +0800" stop="20261010094000 +0800">
-		<title lang="zh">财经慧客厅（1004）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010094000 +0800" stop="20261010095000 +0800">
-		<title lang="zh">财经慧客厅（1005）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010095000 +0800" stop="20261010100000 +0800">
-		<title lang="zh">财经慧客厅（1006）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010100000 +0800" stop="20261010103000 +0800">
-		<title lang="zh">财经慧客厅畅享版（102）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010103000 +0800" stop="20261010110000 +0800">
-		<title lang="zh">财经慧客厅畅享版（408）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010110000 +0800" stop="20261010113500 +0800">
-		<title lang="zh">财经慧客厅畅享版（402）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010113500 +0800" stop="20261010120500 +0800">
-		<title lang="zh">财经慧客厅畅享版（110）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010120500 +0800" stop="20261010123500 +0800">
-		<title lang="zh">财经慧客厅畅享版（705）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010123500 +0800" stop="20261010131000 +0800">
-		<title lang="zh">财经慧客厅畅享版（77）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010131000 +0800" stop="20261010134000 +0800">
-		<title lang="zh">财经慧客厅畅享版（102）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010134000 +0800" stop="20261010135000 +0800">
-		<title lang="zh">财经慧客厅（1006）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010135000 +0800" stop="20261010142000 +0800">
-		<title lang="zh">财经慧客厅畅享版（402）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010142000 +0800" stop="20261010145500 +0800">
-		<title lang="zh">财经慧客厅畅享版（408）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010145500 +0800" stop="20261010152500 +0800">
-		<title lang="zh">财经慧客厅畅享版（110）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010152500 +0800" stop="20261010155500 +0800">
-		<title lang="zh">财经慧客厅畅享版（77）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010155500 +0800" stop="20261010163000 +0800">
-		<title lang="zh">财经慧客厅畅享版（705）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010163000 +0800" stop="20261010164000 +0800">
-		<title lang="zh">财经慧客厅（1001）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010164000 +0800" stop="20261010165000 +0800">
-		<title lang="zh">财经慧客厅（1002）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010165000 +0800" stop="20261010170000 +0800">
-		<title lang="zh">财经慧客厅（1003）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010170000 +0800" stop="20261010171000 +0800">
-		<title lang="zh">财经慧客厅（1004）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010171000 +0800" stop="20261010172000 +0800">
-		<title lang="zh">财经慧客厅（1005）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010172000 +0800" stop="20261010173000 +0800">
-		<title lang="zh">财经慧客厅（1006）</title>
-	</programme>
-	<programme channel="家庭理财" start="20261010173000 +0800" stop="20261010180000 +0800">
+	<programme channel="家庭理财" start="20261009234500 +0800" stop="20261010000000 +0800">
 		<title lang="zh">财经慧客厅畅享版（102）</title>
 	</programme>
 	<programme channel="家庭理财" start="20261010180000 +0800" stop="20261010183000 +0800">
@@ -23781,28 +23667,25 @@
 	<programme channel="海南卫视" start="20261009232000 +0800" stop="20261010001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20261010001500 +0800" stop="20261010023500 +0800">
+	<programme channel="海南卫视" start="20261010001800 +0800" stop="20261010023800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261010001500 +0800" stop="20261010023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20261010023500 +0800" stop="20261010030000 +0800">
+	<programme channel="海南卫视" start="20261010023800 +0800" stop="20261010030300 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
-	<programme channel="海南卫视" start="20261010030000 +0800" stop="20261010035000 +0800">
+	<programme channel="海南卫视" start="20261010030300 +0800" stop="20261010035200 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20261010035000 +0800" stop="20261010042000 +0800">
+	<programme channel="海南卫视" start="20261010035200 +0800" stop="20261010042000 +0800">
 		<title lang="zh">视界</title>
 	</programme>
-	<programme channel="海南卫视" start="20261010042000 +0800" stop="20261010045600 +0800">
+	<programme channel="海南卫视" start="20261010042000 +0800" stop="20261010045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261010045600 +0800" stop="20261010062500 +0800">
+	<programme channel="海南卫视" start="20261010045900 +0800" stop="20261010062800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261010062500 +0800" stop="20261010070000 +0800">
+	<programme channel="海南卫视" start="20261010062800 +0800" stop="20261010070000 +0800">
 		<title lang="zh">步步为营</title>
 	</programme>
 	<programme channel="海南卫视" start="20261010070000 +0800" stop="20261010070100 +0800">
@@ -23815,6 +23698,9 @@
 		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261010120100 +0800" stop="20261010130100 +0800">
+		<title lang="zh">2026海南高尔夫球公开赛</title>
+	</programme>
+	<programme channel="海南卫视" start="20261010130100 +0800" stop="20261010140100 +0800">
 		<title lang="zh">2026海南高尔夫球公开赛</title>
 	</programme>
 	<programme channel="海南卫视" start="20261010130100 +0800" stop="20261010140100 +0800">
@@ -23871,9 +23757,6 @@
 	<programme channel="海南卫视" start="20261011010000 +0800" stop="20261011023000 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20261011010000 +0800" stop="20261011023000 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20261011023000 +0800" stop="20261011032000 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
@@ -23902,6 +23785,9 @@
 		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20261011120100 +0800" stop="20261011130100 +0800">
+		<title lang="zh">2026海南高尔夫球公开赛</title>
+	</programme>
+	<programme channel="海南卫视" start="20261011130100 +0800" stop="20261011140100 +0800">
 		<title lang="zh">2026海南高尔夫球公开赛</title>
 	</programme>
 	<programme channel="海南卫视" start="20261011130100 +0800" stop="20261011140100 +0800">
@@ -23954,5 +23840,32 @@
 	</programme>
 	<programme channel="海南卫视" start="20261012010000 +0800" stop="20261012023500 +0800">
 		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012023500 +0800" stop="20261012030500 +0800">
+		<title lang="zh">视界</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012030500 +0800" stop="20261012033000 +0800">
+		<title lang="zh">步步为营</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012033000 +0800" stop="20261012042000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012042000 +0800" stop="20261012045600 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012045600 +0800" stop="20261012062500 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012062500 +0800" stop="20261012070000 +0800">
+		<title lang="zh">步步为营</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012070000 +0800" stop="20261012070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012070100 +0800" stop="20261012073300 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20261012073300 +0800" stop="20261012180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 </tv>
